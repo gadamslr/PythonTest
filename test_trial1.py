@@ -1,4 +1,4 @@
 import task01
 
-def hello_test():
+def test_hello():
     assert task01.hello() == "Hello World!"
