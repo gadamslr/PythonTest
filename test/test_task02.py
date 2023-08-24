@@ -1,2 +1,4 @@
-def test_answer():
-    assert func(3) == 5
+import task01
+
+def hello_test():
+    assert task01.hello() == "Hello World!"
